@@ -36,6 +36,8 @@ alias ga="git add ."
 alias gc="git commit -m"
 alias gl="git log --oneline --graph --decorate"
 alias gundo='git reset --soft HEAD~1'
+alias gr='git restore'
+alias grs='git restore --staged'
 
 # nvim
 alias nv="nvim"
