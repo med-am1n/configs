@@ -24,6 +24,7 @@ export PATH="/Users/ahmed/.rd/bin:$PATH"
 alias ..="cd .."
 alias c='clear'
 alias mkdir='mkdir -p'
+alias ccwd="pwd | tr -d '\n' | pbcopy"
 
 # safety nets
 alias rm='rm -i'
