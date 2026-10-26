@@ -41,9 +41,9 @@ alias gr='git restore'
 alias grs='git restore --staged'
 
 # nvim
-alias nv="nvim"
-alias vim="nvim"
-alias nvimconfig="nvim  ~/.config/nvim/"
+alias nv="nvim ./"
+alias vim="nvim ./"
+alias nvc="nvim  ~/.config/nvim/"
 
 # Mac
 # Remove from quarantine 
