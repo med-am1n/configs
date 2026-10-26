@@ -53,7 +53,7 @@ unqu() {
 }
 
 # zsh
-alias zshconfig="nvim ~/.zshrc"
+alias zshc="nvim ~/.zshrc"
 alias szsh="source ~/.zshrc"
 
 # Homebrewu completions to search path
